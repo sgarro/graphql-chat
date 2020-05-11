@@ -1,0 +1,6 @@
+[submodule "graphql-app-server"]
+	path = graphql-app-server
+	url = https://github.com/sgarro/graphql-app-server.git
+[submodule "graphql-chat-react-app"]
+	path = graphql-chat-react-app
+	url = https://github.com/sgarro/graphql-chat-react-app
